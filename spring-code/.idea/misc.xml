@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/itheima_mybatis_anno" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_mybatis_config" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_mybatis_dao" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_mybatis_mapper" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_mybatis_multi" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_mybatis_quick" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_aop" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_exception" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_ioc" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_ioc_anno" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_jdbc" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_mvc" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_test" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_test_ex" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_tx" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_spring_tx_anno" />
+    <file type="web" url="file://$PROJECT_DIR$/itheima_ssm" />
+    <file type="web" url="file://$PROJECT_DIR$/my_itheima_spring_test" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/itheima_spring_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_ioc_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_test_ex/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_test/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_spring_tx_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_quick/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_dao/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_config/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_multi/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_mybatis_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/itheima_ssm/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

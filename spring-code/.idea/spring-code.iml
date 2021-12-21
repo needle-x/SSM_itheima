@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/MYCODE/itheima_spring_test/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/MYCODE/itheima_ssm/target/itheima_ssm/WEB-INF/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/MYCODE/itheima_ssm/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/MYCODE/itheima_ssm/target/classes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/MYCODE/itheima_ssm/target/itheima_ssm/WEB-INF/classes/spring-mvc.xml</file>
+          <file>file://$MODULE_DIR$/MYCODE/itheima_spring_test/src/main/resources/spring-mvc.xml</file>
+          <file>file://$MODULE_DIR$/MYCODE/itheima_ssm/target/classes/spring-mvc.xml</file>
+          <file>file://$MODULE_DIR$/MYCODE/itheima_ssm/src/main/resources/spring-mvc.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
